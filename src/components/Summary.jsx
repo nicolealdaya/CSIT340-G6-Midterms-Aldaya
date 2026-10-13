@@ -9,5 +9,3 @@ export default function Summary({ seats, months, customer }) {
     </header>
   );
 }
- 
- 
