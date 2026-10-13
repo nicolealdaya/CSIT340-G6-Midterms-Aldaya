@@ -1,6 +1,7 @@
-import Navbar from "./components/Navbar.jsx/index.js";
-import PlanPicker from "./components/PlanPicker.jsx/index.js";
+import Navbar from "./components/Navbar.jsx";
+import PlanPicker from "./components/PlanPicker.jsx";
 import Footer from "./components/Footer.jsx";
+
  
 function App() {
   return (
