@@ -29,7 +29,7 @@ export default function PlanPicker() {
             className="cursor-pointer rounded-lg bg-[#CB2957] px-8 py-3 text-xl font-bold text-[#EEEEEE]"
             onClick={handleAddSeat}
           >
-            Add seat
+            Add seat 
           </button>
           <button
             className="cursor-pointer rounded-lg bg-[#EEEEEE] px-8 py-3 text-xl font-bold text-[#000000]"
